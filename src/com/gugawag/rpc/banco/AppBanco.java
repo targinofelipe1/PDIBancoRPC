@@ -20,5 +20,8 @@ public class AppBanco {
         registry.rebind("BancoService", bancoService);
 
         System.out.println("Service de banco registrado ....");
+        System.out.println("Felipe Targino do Nascimento");
+
+
     }
 }
